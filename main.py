@@ -8,4 +8,4 @@ client = commands.Bot(command_prefix="!", intends = discord.Intents.all())
 
 cogs.setup(client)
 
-client.run("OTA5MjIwMjQxOTM3MTU4MjM0.YZBHVg.b8d8U7ywuvZMa-Y4YgesacUPboo")
+client.run("OTA5MjIwMjQxOTM3MTU4MjM0.YZBHVg.9nohMtet4UcCdZ-GayAlfvEHxTo")
